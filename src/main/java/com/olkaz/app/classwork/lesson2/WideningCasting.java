@@ -1,4 +1,4 @@
-package com.OlkaZ.app.ClassWork;
+package com.olkaz.app.classwork.lesson2;
 
 
 public class WideningCasting {
